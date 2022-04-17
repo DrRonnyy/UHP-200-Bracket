@@ -3,7 +3,7 @@
 
 UHP-200 Bracket for DIN rail.
 
-![image](https://github.com/DrRonnyy/UHP-200-Bracket/blob/main/UHP-200 Bracket Exploded.png)
+![image](https://github.com/DrRonnyy/UHP-200-Bracket/blob/main/UHP-200-Bracket Exploded.png)
 
 This is a 3D printed mount to allow a Meanwell UHP-200 power supply to be attached to a DIN rail. 
 
